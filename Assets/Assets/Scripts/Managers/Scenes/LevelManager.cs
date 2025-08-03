@@ -41,6 +41,10 @@ public class LevelManager : MonoBehaviour
             LifesManager.instance.AddLife();
             SceneManager.LoadScene(SceneManager.GetActiveScene().name);
         }
+        else
+        {
+            SceneManager.LoadScene("Victory");
+        }
     }
 
 }
