@@ -1,5 +1,6 @@
-# SpaceInvaders_DU
+## 🧱 Estructura del proyecto
 
+```plaintext
 Assets/
 ├── Scripts/
 │   ├── Player/
