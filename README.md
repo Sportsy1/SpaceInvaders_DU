@@ -1,13 +1,4 @@
-## 🧱 Estructura del proyecto
+#  Space Invaders
 
-```plaintext
-Assets/
-├── Scripts/
-│   ├── Player/
-│   ├── Enemy/
-│   ├── Game/
-├── Prefabs/
-├── Scenes/
-│   └── Main.unity
-├── UI/
-└── Audio/
+Un pequeño clon del clásico juego de arcade *Space Invaders*, hecho con Unity.
+
